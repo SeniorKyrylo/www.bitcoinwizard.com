@@ -56,7 +56,7 @@ const ProductListPage = () => {
     {
       name: "Throw Blanket",
       url: "https://www.bitcoinwizard.com/wp-content/uploads/2021/03/throw-blanket-50x60-lifestyle-604b527aca298-300x300.jpg",
-      url: "",
+      url2: "",
       minPrice: "31.50",
       maxPrice: ""
     },
